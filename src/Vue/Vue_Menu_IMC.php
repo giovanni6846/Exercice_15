@@ -14,7 +14,8 @@ class Vue_Menu_IMC extends Vue_Composant
               <ul id='menu-closed'> 
                 <li><a href='?case=A'>cas A</a></li>
                 <li><a href='?case=B'>cas B</a></li>   
-                <li><a href='?case=IMC'>****IMC***</a></li>  
+                <li><a href='?case=IMC'>****IMC***</a></li> 
+                <li><a href='?case=orage'>Orage</a></li>  
                    </ul>
             </nav> 
 ";
